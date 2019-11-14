@@ -1,6 +1,6 @@
 {
   "name": "@djforth/utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility Functions to use in my projects",
   "main": "index.js",
   "repository": "git@github.com:djforth/utilities.git",
